@@ -4,18 +4,22 @@ Suspicious Phishing & Impersonation Detection Engine for Risky URLs\
 An open-source URL security analysis tool designed to help identify potentially suspicious and malicious URLs.
 
 ---
+
 ## 🕷️ Features
 
 - Phishing URL Detection
+- Phishing Blacklist Checking
 - Typosquatting Detection
 - Homograph / IDN Attack Detection
+- Punycode Detection
+- Mixed-Script Detection
 - URL Shortener Detection & Expansion
 - Open Redirect Detection
-- Suspicious TLD Detection
 - Fake Subdomain Detection
 - IP-Based URL Detection
-- URL Heuristic Analysis & Risk Scoring
-- Phishing Blacklist Checking
+- Suspicious TLD Detection
+- Suspicious URL Heuristic Analysis
+- URL Risk Scoring
 - Trusted Domain Verification
 - Google Safe Browsing Integration
 - VirusTotal Integration
