@@ -27,7 +27,7 @@ An open-source URL security analysis tool designed to help identify potentially 
 ---
 ## 🔓 Open Source
 
-S.P.I.D.E.R. is an open-source security tool developed for educational and research purposes.
+S.P.I.D.E.R is an open-source security tool developed for educational and research purposes.
 
 Feel free to use, modify, and contribute to the project.
 
@@ -39,7 +39,7 @@ Feel free to use, modify, and contribute to the project.
 
 [Linkedin](www.linkedin.com/in/modaser-samir-modz-223809305)
 
-**S.P.I.D.E.R. v1.0.0**
+**S.P.I.D.E.R v1.0.0**
 
 > 🕷️ Don't just visit the URL. Analyze it.
 
@@ -49,7 +49,7 @@ Feel free to use, modify, and contribute to the project.
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/S.P.I.D.E.R.git
-cd S.P.I.D.E.R.
+cd S.P.I.D.E.R
 python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
