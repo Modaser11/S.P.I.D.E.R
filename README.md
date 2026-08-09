@@ -20,6 +20,24 @@ An open-source URL security analysis tool designed to help identify potentially 
 - VirusTotal Integration
 
 ---
+## 🔓 Open Source
+
+S.P.I.D.E.R. is an open-source security tool developed for educational and research purposes.
+
+Feel free to use, modify, and contribute to the project.
+
+---
+
+## 👨‍💻 Developed By
+
+**Modaser Samir (MODZ)**
+
+**S.P.I.D.E.R. v1.0.0**
+
+> 🕷️ Don't just visit the URL. Analyze it.
+
+---
+
 ## Installation
 
 ```bash
