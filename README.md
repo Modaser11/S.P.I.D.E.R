@@ -47,9 +47,20 @@ Feel free to use, modify, and contribute to the project.
 
 ## Installation
 
+Just run these commands
+
 ```bash
 git clone https://github.com/Modaser11/S.P.I.D.E.R.git
+```
+```bash
 cd S.P.I.D.E.R
+```
+```bash
 python3 -m venv venv
+```
+```bash
 source venv/bin/activate
+```
+```bash
 pip3 install -r requirements.txt
+```
