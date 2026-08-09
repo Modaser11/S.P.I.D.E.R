@@ -44,6 +44,11 @@ Feel free to use, modify, and contribute to the project.
 > 🕷️ Don't just visit the URL. Analyze it.
 
 ---
+## ⚠️ Warning
+
+Don't forget to add your **VirusTotal** and **Google Safe Browsing API keys** in the code before running S.P.I.D.E.R
+
+---
 
 ## Installation
 
