@@ -50,4 +50,6 @@ Feel free to use, modify, and contribute to the project.
 ```bash
 git clone https://github.com/YOUR_USERNAME/S.P.I.D.E.R.git
 cd S.P.I.D.E.R.
+python3 -m venv venv
+source venv/bin/activate
 pip3 install -r requirements.txt
