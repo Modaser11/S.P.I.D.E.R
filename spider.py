@@ -7,7 +7,13 @@ import unicodedata
 import difflib
 
 def print_banner():
-    print(r"""                                                                                                    
+   print(r"""                             
+                             ____   ____  ___   ____   _____   ____  
+                            / ___| |  _ \|_ _| |  _ \ | ____| |  _ \ 
+                            \___ \ | |_) || |  | | | ||  _|   | |_) |
+                             ___) ||  __/ | | _| |_| || |___ _|  _ < 
+                            |____(_)_| (_)___(_)____(_)_____(_)_| \_\
+            Suspicious Phishing & Impersonation Detection Engine for Risky URLs                                                                       
                          .     ..                                 ..     .                          
                         .-    .+.                                .-+     -.                         
                        -#.    +-                                  .++    .+-                        
@@ -72,10 +78,9 @@ def print_banner():
                                           ..          .-..                                          
                                                       ..                                                                   
 
-                    Developed by Modaser Samir (MODZ)
-                              v1.0.0
+                                    Developed by Modaser Samir (MODZ)
+                                              v1.0.0
     """)
-
 #apis
 def check_external_apis(url):
     try:
