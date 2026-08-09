@@ -1,7 +1,6 @@
 # 🕷️ S.P.I.D.E.R
 <img width="1149" height="1369" alt="image" src="https://github.com/user-attachments/assets/57b8835e-ad5b-4f5b-a271-992b487f1af3" />
 
-Suspicious Phishing & Impersonation Detection Engine for Risky URLs\
 An open-source URL security analysis tool designed to help identify potentially suspicious and malicious URLs.
 
 ---
