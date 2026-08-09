@@ -1,5 +1,6 @@
 # 🕷️ S.P.I.D.E.R
 
+Suspicious Phishing & Impersonation Detection Engine for Risky URLs\
 An open-source URL security analysis tool designed to help identify potentially suspicious and malicious URLs.
 
 ---
