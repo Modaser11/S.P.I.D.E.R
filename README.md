@@ -30,7 +30,8 @@ Feel free to use, modify, and contribute to the project.
 
 ## 👨‍💻 Developed By
 
-**Modaser Samir (MODZ)**
+**Modaser Samir (MODZ)** \
+[Linkedin](www.linkedin.com/in/modaser-samir-modz-223809305)\
 
 **S.P.I.D.E.R. v1.0.0**
 
