@@ -449,7 +449,7 @@ if __name__ == "__main__":
 
     url = input("Enter URL: ").strip()
 
-   if not re.match(r"^(https?://)?([^\s./]+\.)+[^\s./]{2,}(/.*)?$", url):
-    print("Invalid URL. Bye!")
-else:
-    scan_url(url, phishing, tranco, keywords, tlds, shorteners)
+       if not re.match(r"^(https?://)?([^\s./]+\.)+[^\s./]{2,}(/.*)?$", url):
+        print("Invalid URL. Bye!")
+       else:
+        scan_url(url, phishing, tranco, keywords, tlds, shorteners)
